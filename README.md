@@ -78,5 +78,7 @@ https://ebusiness.avma.org/files/productdownloads/petdentalcare_brochure.pdf
 
 ## Demonstration
 Here’s a video demonstrating the setup and usage of the Multimodal RAG VetCare application:
-https://github.com/sowmyakuruba20/Multimodal_RAG_VetCare/blob/main/DEMO.mov
+<video src="https://github.com/sowmyakuruba20/Multimodal_RAG_VetCare/raw/main/DEMO.mov" controls="controls" style="max-width: 100%;">
+    Your browser does not support the video tag.
+</video>
 
