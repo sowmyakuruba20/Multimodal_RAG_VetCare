@@ -66,9 +66,17 @@ https://ebusiness.avma.org/files/productdownloads/petdentalcare_brochure.pdf
 3. **Static Files**: Include CSS and JavaScript for a responsive and interactive user experience.
 
 
-## Installation
-1. **Clone the Repository**: Clone the repository from GitHub using the URL https://github.com/yourusername/Multimodal_RAG_VetCare.git and navigate into the project directory.
-2. **Install Dependencies**: Install the required dependencies listed in the requirements.txt file.
-3. **Set Up Environment Variables**: Create a .env file in the project root directory and add your OpenAI API key in the format OPENAI_API_KEY=your-openai-api-key.
-4. **Run the Application**: Start the FastAPI server. This will start the FastAPI server, and you can access the application at http://127.0.0.1:8000.
+## Installation and Setup
 
+**Process**:
+1. **Clone the Repository**: Clone the repository from GitHub using the URL `https://github.com/yourusername/Multimodal_RAG_VetCare.git` and navigate into the project directory.
+2. **Install Dependencies**: Install the required dependencies listed in the `requirements.txt` file.
+3. **Set Up Environment Variables**: Create a `.env` file in the project root directory and add your OpenAI API key in the format `OPENAI_API_KEY=your-openai-api-key`.
+4. **Run the Application**: Start the FastAPI server. This will start the FastAPI server, and you can access the application at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+---
+
+## Demonstration
+Here’s a video demonstrating the setup and usage of the Multimodal RAG VetCare application:
+
+[Watch the demo video](DEMO.mov)
